@@ -1,0 +1,19 @@
+mov reg1,10
+mov reg2,reg1
+sub reg2,1
+mov reg3,3
+mul reg2,reg3
+mov reg4,7
+add reg2,reg4
+div reg1,reg3
+not reg4
+mov reg5,10
+and reg5,2
+or reg5,reg2
+mov reg8,reg2
+cmp reg1, reg4
+xor reg6,4
+add reg9,reg1
+sub reg10,11
+mov reg7,reg10
+add reg7,5
